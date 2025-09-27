@@ -122,6 +122,7 @@ npm run test:coverage
 🐛 Troubleshooting
 
 **Problemas comunes**
+
 Error: "Cannot find module"
 ```bash
 rm -rf node_modules package-lock.json

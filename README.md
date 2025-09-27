@@ -13,7 +13,6 @@ Backend desarrollado con Firebase Functions, Express.js y TypeScript para un sis
 - [Tecnologías](#-tecnologías)
 - [Instalación](#-instalación)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
-- [API Documentation](#-api-documentation)
 - [Desarrollo](#-desarrollo)
 - [Despliegue](#-despliegue)
 
@@ -77,7 +76,7 @@ Backend/
 │   │   ├── repositories/   # Acceso a datos
 │   │   ├── routes/         # Definición de rutas
 │   │   ├── services/       # Lógica de negocio
-│   │   ├── types/          # Interfaces TypeScript
+│   │   ├── models/         # Interfaces TypeScript
 │   │   └── index.ts        # Punto de entrada
 │   ├── lib/                # Código compilado
 │   ├── package.json

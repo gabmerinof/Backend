@@ -120,7 +120,8 @@ npm run test:coverage
 ```
 
 🐛 Troubleshooting
-Problemas comunes
+
+**Problemas comunes**
 Error: "Cannot find module"
 ```bash
 rm -rf node_modules package-lock.json
@@ -134,7 +135,5 @@ npm run build
 ```
 
 Problemas de autenticación
-
-Verificar que el token JWT sea válido
-
-Confirmar que el usuario exista en Firebase Auth
+* Verificar que el token JWT sea válido
+* Confirmar que el usuario exista en Firebase Auth
